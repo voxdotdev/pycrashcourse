@@ -1,4 +1,4 @@
-### Variable Rules and Guidelines
+## Variable Rules and Guidelines
 
 * Variable names can contain only letters, numbers, and underscores.
 * They can start with a letter or an underscore, but not with a number. 
@@ -23,8 +23,8 @@ small dog
 
 
 
-[Python Keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
+**[Python Keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords)**
 
 
-[Python Built-in Functions](https://docs.python.org/3/library/functions.html)
+**[Python Built-in Functions](https://docs.python.org/3/library/functions.html)**
 

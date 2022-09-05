@@ -1,4 +1,4 @@
-### Strings
+## Strings
 
 * A string is a series of characters.
 * Anything in quotations is considered a string in Python.
@@ -15,12 +15,12 @@
 
 ### Manipulating strings with Methods 
 
-[See name.py](../exercises/name.py)
+**[See name.py](../exercises/name.py)**
 
 ### Using variables in strings via F-strings
 
-[See full_name.py](../exercises/full_name.py)
+**[See full_name.py](../exercises/full_name.py)**
 
 ### Adding and removing Whitespace to / from Strings
 
-[See whitespace.py](../exercises/whitespace.py)
+**[See whitespace.py](../exercises/whitespace.py)**

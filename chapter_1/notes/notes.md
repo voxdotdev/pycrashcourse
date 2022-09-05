@@ -1,6 +1,6 @@
 "It's a good idea to keep an "ideas" notebook that you can refer to whenever you want to start a new project."
 
-For this exercise, describe three programs you want to create" 
+For this exercise, describe three programs you want to create 
 
 
 **Potential Python Projects**
