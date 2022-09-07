@@ -17,7 +17,6 @@ print(message)
 
 # Use a variable to represents person's name
 
-
 name = "george"
 
 # Print that person's name in lowercase, uppercase, and title case
