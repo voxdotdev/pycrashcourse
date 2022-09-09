@@ -1,3 +1,0 @@
-# Integers Intro
-
-
