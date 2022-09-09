@@ -1,4 +1,4 @@
-# Strings
+## Strings
 
 * A string is a series of characters.
 * Anything in quotations is considered a string in Python.
@@ -13,7 +13,7 @@
 "The language 'Python' is named after Monty Python, not the snake."</br>
 "One of Python's strengths is its diverse and supportive community."
 
-## Manipulating strings with Methods 
+### Manipulating strings with Methods 
 
 **[See name.py](../exercises/name.py)**
 

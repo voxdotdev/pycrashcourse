@@ -1,4 +1,4 @@
-# Summary of Chapter 2
+## Summary of Chapter 2
 
 In this chapter variables were reviewed, teaching to use descriptive variable names</br> and how to resolve name and syntax errors as they arise. 
 

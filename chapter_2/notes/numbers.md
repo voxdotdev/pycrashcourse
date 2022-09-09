@@ -1,4 +1,4 @@
-# Numbers
+## Numbers
 
 Numbers are used for countless things, to keeping score in games, representing data in visualizations, and so on.
 
@@ -6,13 +6,13 @@ Python treats numbers in several different ways, depending on how they're being 
 
 Easiest to tackle is how Python manages integers.
 
-## Integers 
+### Integers 
 
 * You can add + , subtract - , multiply * and divide / integers in Python
 * Exponents are represented with ** 
 * Python supports the order of operations
 
-## Floats 
+### Floats 
 
 Any number with a decimal point is referred to as a float.
 This term is used in most programming languages and refers to the fact that a decimal point can appear to any position in a number. 
@@ -26,7 +26,7 @@ For the most part, decimals can be used without worrying about how they behave, 
 
 This can be ignored for now, ways to deal with the extra places will be explained later on.
 
-## Integers and Floats
+### Integers and Floats
 
 Dividing any two numbers, even if they are integers that result in a whole number, will always produce a float.
 
@@ -43,7 +43,7 @@ Mixing an integer and a float in any other operation will a float as well:
 9.0</br>
 
 
-## Underscores in Numbers
+### Underscores in Numbers
 
 Long numbers can be grouped up using underscores to make large numbers more readable.
 
@@ -55,21 +55,3 @@ and later.
 
 > print(universe_age)</br>
 14000000000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**[See integers.py](../exercises/integers.py)** for exercises.

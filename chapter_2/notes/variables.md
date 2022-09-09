@@ -1,4 +1,4 @@
-# Variable Rules and Guidelines
+## Variable Rules and Guidelines
 
 * Variable names can contain only letters, numbers, and underscores.
 * They can start with a letter or an underscore, but not with a number. 
@@ -27,7 +27,7 @@ small dog
 **[Python Built-in Functions](https://docs.python.org/3/library/functions.html)**
 
 
-## Multiple Assignment
+### Multiple Assignment
 
 Values can be assigned to more than one variable using a single line. 
 
@@ -37,7 +37,7 @@ For example:
 
 The variable names and values must be separated by commas. Python will assign each value to its respective positioned variable. As long as the number of values matches the number of variables, Python will match them up correctly. 
 
-## Constants
+### Constants
 
 A *constant* is a variable whose value stays the same and will never change. 
 
@@ -45,7 +45,7 @@ Python does not have built-in constant types, but Python programmers use all cap
 
 > MAX_CONNECTIONS = 5000
 
-## Comments 
+### Comments 
 
 Comments are noted lines to document behaviors and expectations for the written code.
 Your future self and others who need to read your code later on will thank you. 
