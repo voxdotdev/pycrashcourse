@@ -5,7 +5,7 @@
 * A list is a collection of items in a particular order. Anything can be put into a list, and the items in the list do not have to be related in any particular way.
 
 * Like most programming languages, Python considers the first item in a list to be at position 0, not position 1. 
-* 
+
 ## Creating and Accessing Lists 
 
 * Create a list</br>
