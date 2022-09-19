@@ -93,3 +93,31 @@ See [Players](../exercises/players.py) exercise for slice examples.
 ## Copying a List
 
 * To copy a list, make a slice that includes the entire original list by omitting the first index and the second index `[:]`. This tells Python to make a slice that starts at the first item and ends with the last item, producing a copy of the entire list, as shown in [Foods](../exercises/foods.py).
+
+## Tuples 
+
+* Sometimes it will be necessary to create a list of items that cannot change. Tuples allow for that. Python refers to values that cannot change as **immutable**, an immutable list is called a tuple.
+
+## Looping Through All Values in a Tuple
+
+* Tuples can be looped through via a for loop in the same way as lists. 
+
+## Writing over a Tuple
+
+* While tuples cannot be modified directly, a new value can be assigned to a variable that represents a tuple. 
+
+* See examples of these overviews in [Tuples](../exercises/tuples.py) and [Overwrite Tuple](../exercises/overwrite_tuple.py)
+
+## Formatting Guidelines
+
+### Indentation 
+
+* The [PEP8](https://peps.python.org/pep-0008/) style guide for Python Code, recommends using 4 spaces per indentation level. Every text editor provides a setting that lets you use the TAB key but then converts each tab to a set number of spaces. 
+
+### Line Length 
+
+* The PEP8 style guide advises to limit all lines to a maximum of 79 characters. For flowing long blocks of text with fewer structural restrictions, the line length should be limited to 72 characters. 
+
+### Blank Lines 
+
+* To group parts of the program visually, use blank lines within reason. By following the examples in this book the balance should be clear, generally separating lines of code that do different things from one another, defining a list versus accessing data from a list, with one blank line in between.
