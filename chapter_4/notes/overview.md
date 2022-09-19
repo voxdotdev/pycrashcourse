@@ -112,7 +112,7 @@ See [Players](../exercises/players.py) exercise for slice examples.
 
 ### Indentation 
 
-* The [PEP8](https://peps.python.org/pep-0008/) style guide for Python Code, recommends using 4 spaces per indentation level. Every text editor provides a setting that lets you use the TAB key but then converts each tab to a set number of spaces. 
+* The [PEP8](https://peps.python.org/pep-0008/) style guide for Python recommends using 4 spaces per indentation level. Every text editor provides a setting that lets you use the TAB key but then converts each tab to a set number of spaces. 
 
 ### Line Length 
 
