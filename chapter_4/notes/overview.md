@@ -17,12 +17,12 @@
 >>`print(item)`</br>
 >
 > **additional formatting:**</br>
-    >> `print(f"{item.title()}, found in inventory")`</br>
+>> print(f"{item.title()}, found in inventory")</br>
 >
 > **output**: Item found in inventory
 ## Lists of numbers 
 
-* `range()` allow manipulation of output</br>
+* `range()` allows manipulation of list output by specifying range of indices to include.</br>
 
 * range will always start counting at the first value provided, and stops when it reaches the second value provided. Because it stops at the second value, it will never contain the end value, in the first line below, 5.
 
