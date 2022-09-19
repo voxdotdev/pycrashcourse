@@ -13,8 +13,8 @@
 </br>
 
 * Define a for loop with a variable, call via print method</br>
->`for item in itemslist:`</br>
->>`print(item)`</br>
+>for item in itemslist:</br>
+>>print(item)</br>
 >
 > **additional formatting:**</br>
 >> print(f"{item.title()}, found in inventory")</br>
@@ -47,15 +47,15 @@ See [Even Numbers ](../exercises/even_numbers.py) and [Squares](../exercises/squ
 
 * Comprehensions allow for succinct writing by condensing multiple lines of code to loop through a range and assign to a list into one line of code.
 
->`squares = [value**2 for value in range(1,11)]`</br>
->`print(squares)`</br>
+>squares = [value**2 for value in range(1,11)]</br>
+>print(squares)</br>
 **is equivalent to:**</br> 
->`squares = []`</br>
->`for value in range(1, 11):`</br>
-    >>`square = value ** 2`</br>
-    >>`squares.append(square)`</br>
+>squares = []</br>
+>for value in range(1, 11):</br>
+>>square = value ** 2</br>
+>>squares.append(square)</br>
 >
->`print(squares)`</br>
+>print(squares)</br>
 
 ## Working with Part of a List
 
