@@ -95,6 +95,6 @@ The if-elif-else chain is generally on appropriate to use when you just need one
 
 In a situation where multiple conditions need to be checked, a series of if statements with no elif or else blocks can be used. 
 
-See [Toppings](../exercises/5_0_toppings.py) exercise for if-elif-else examples. 
+See [Toppings](../exercises/5-0_toppings.py) exercise for if-elif-else examples. 
 
 * In summary, if only one block of code needs to run, use an if-elif-else chain. If more than one block of code needs to run, use a series of independent if statements.
