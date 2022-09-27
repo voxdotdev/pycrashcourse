@@ -98,3 +98,25 @@ In a situation where multiple conditions need to be checked, a series of if stat
 See [Toppings](../exercises/5-0_toppings.py) exercise for if-elif-else examples. 
 
 * In summary, if only one block of code needs to run, use an if-elif-else chain. If more than one block of code needs to run, use a series of independent if statements.
+
+## Using if Statements with Lists 
+
+When combining lists and if statements, it becomes possible to do thing like watch for special values that need to be treated differently than other values in the list. It allows management of changing conditions efficiently, such as the availability of certain items ina  restaurant throughout a shift. It also beings to prove that the code works as expected in all possible situations. 
+
+### Checking for special items 
+
+This chapter began with a simple example that showed how to handle a special value like 'bmw', which needed to be printed in a different format than other values in the list. Now that there's a basic understanding of conditional tests and if statements, we can now take a closer look at how special values can be accounted for in a list, and how to handle them appropriately. 
+
+Continuing with the pizzeria example, the pizzeria displays a message whenever a topping is added to a pizza, as it's being made. The code for this action can be written by making a list of toppings the customer has requested, then using a loop to announce each topping as it's added to the pizza. 
+
+## Checking That a List IS Not Empty
+
+Soon the programs made will rely on user input to form the lists, in which case it will no longer be safe to assume the lists are populated with values. An if statement before the for loop will help with this.
+
+See [Toppings Two](../exercises/5-0_toppings2.py) exercise.
+
+## Using Multiple Lists
+
+Lists and if statements can be used to make sure the user input makes sense before acting on it. 
+
+
