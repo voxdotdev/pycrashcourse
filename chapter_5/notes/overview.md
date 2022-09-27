@@ -117,6 +117,22 @@ See [Toppings Two](../exercises/5-0_toppings2.py) exercise.
 
 ## Using Multiple Lists
 
-Lists and if statements can be used to make sure the user input makes sense before acting on it. 
+Lists and if statements can be used to make sure the user input makes sense before acting on it. Essentially compare one list to another, a list with user input to a list with valid entries.
 
+## Styling if Statements 
+
+The only recommendation PEP 8 provides for styling conditional tests is to use a single space around comparison operators, such as ==. >=, <=. 
+ 
+>if age < 4</br>
+is better than:</br>
+>if age<4
+
+## Summary of Chapter 5 
+
+* How to write conditional tests, which always evaluate to true or false.
+* How to write simple if statements, if-else chains, if-elif-else chains. 
+* Identify conditions with these statements
+* Handle certain items in a list differently than all other items,
+  while utilizing the efficiency of a for loop. 
+* Revisited Python's style recommendations 
 
