@@ -40,7 +40,7 @@ Two equal signs checks if a variable equals a value: </br>
 * AND operator, if all tests pass, the result is True
 * OR operator, if at least one test passes, the result is True
 
-See [More Conditions](../exercises/5-2_more_con_tests.py) exercise for examples
+See [More Conditions](../exercises/502_more_con_tests.py) exercise for examples
 
 ### Checking whether a Value is Not in a List
 
@@ -95,7 +95,7 @@ The if-elif-else chain is generally on appropriate to use when you just need one
 
 In a situation where multiple conditions need to be checked, a series of if statements with no elif or else blocks can be used. 
 
-See [Toppings](../exercises/5-0_toppings.py) exercise for if-elif-else examples. 
+See [Toppings](../exercises/5_toppings.py) exercise for if-elif-else examples. 
 
 * In summary, if only one block of code needs to run, use an if-elif-else chain. If more than one block of code needs to run, use a series of independent if statements.
 
@@ -113,7 +113,7 @@ Continuing with the pizzeria example, the pizzeria displays a message whenever a
 
 Soon the programs made will rely on user input to form the lists, in which case it will no longer be safe to assume the lists are populated with values. An if statement before the for loop will help with this.
 
-See [Toppings Two](../exercises/5-0_toppings2.py) exercise.
+See [Toppings Two](../exercises/500a_toppings2.py) exercise.
 
 ## Using Multiple Lists
 
