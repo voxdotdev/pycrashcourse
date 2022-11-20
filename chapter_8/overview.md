@@ -35,14 +35,14 @@
 
 * Positional args, keyword args, and default values can all be used together, as such there will be times where there will be multiple ways to call a function. Use whatever is easiest to understand, and if ever there are argument errors, Python should point out the problematic one in the returned error.
 
-### Return Values
-* A function doesn't always have to display its output directly. Instead, it can process some data and then return a value or set of values. The value the function returns is called a *return value*. The return statement takes a value from inside a function and sends it back to the line that called the function. Return values allow to move much of the program's grunt work into functions. 
-  
 #### Making an Argument Optional
 
 * Sometimes it makes sense to make an argument optional so that people using the function can choose to provide extra information only if they want to. 
 * Arguments can be made optional via default values.
 
+### Return Values
+* A function doesn't always have to display its output directly. Instead, it can process some data and then return a value or set of values. The value the function returns is called a *return value*. The return statement takes a value from inside a function and sends it back to the line that called the function. Return values allow to move much of the program's grunt work into functions. 
+  
 #### Returning a Dictionary
 
 * A function can return any kind of value needed, including more complicated data structures like lists and dictionaries.
