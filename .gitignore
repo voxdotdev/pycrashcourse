@@ -1,3 +1,3 @@
 # ignore ALL files in ANY directory named the following 
 chapter_template/
-.vscode/
+__pycache__
