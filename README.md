@@ -11,4 +11,4 @@ List to follow here
 
 **[x] Python Crash Course - 2nd Edition**
 
-Each chapter (excluding intro chapter, for now) features both an **exercises** folder to practice the exercises in the book, <s>as well as an **overview** file listing all elements reviewed within said chapter.</s> This was deviated from in later chapters for convenience / workflow.
+Each chapter (excluding intro chapter, for now) features both an **exercises** folder to practice the exercises in the book, as well as an **overview** file listing all elements reviewed within said chapter. Overview will be completed after all the exercises in the chapter has been reviewed to act as a means of recap.
