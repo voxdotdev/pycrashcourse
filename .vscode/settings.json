@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./chapter_9_classes/exercises/9.9-9.12/9.9_import_classes/9.92_module_to_module",
-        "./chapter_9_classes/exercises/9.9-9.12/9.9/9.92_module_to_module"
-    ]
-}
