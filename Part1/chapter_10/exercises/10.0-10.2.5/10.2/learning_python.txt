@@ -1,0 +1,5 @@
+In Python you can read external files, such as this text file.
+In Python you can read the entire file.
+In Python you can also read the file line by line
+In Python you can read line by line by using a for loop.
+
